@@ -30,11 +30,13 @@ I'm a <b>Robotics Student</b> with experience in,
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=abdulmaajidaga&theme=dark&hide_border=false&include_all_commits=true&count_private=true" height="180"/>
 <!--![](https://github-readme-streak-stats.herokuapp.com/?user=abdulmaajidaga&theme=dark&hide_border=false)<br/>  -->
-&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulmaajidaga&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="180"/>
+<br>  <br>
 </div>
-<!--### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=abdulmaajidaga&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)-->
+<div align="center">
+<img src="https://github-contributor-stats.vercel.app/api?username=abdulmaajidaga&limit=5&theme=dark&combine_all_yearly_contributions=true" height="280"/>
+</div>
 
 ##
 
