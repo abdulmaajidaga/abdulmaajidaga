@@ -43,7 +43,3 @@ I'm a <b>Robotics Student</b> with experience in,
 <div align="center">
   <img height="300" src="https://giffiles.alphacoders.com/162/162556.gif"  />
 </div>
-
-##
-
-[![](https://visitcount.itsvg.in/api?id=abdulmaajidaga&icon=3&color=0)](https://visitcount.itsvg.in)
