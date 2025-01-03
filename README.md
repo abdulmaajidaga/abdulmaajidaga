@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a Robotics Student with some experience in<br>• Embedded Systems<br>• Programming<br>• Control Systems<br>• Mechanical Design & CAD<br>• Algorithms<br>• Robotics Simulation<br>• Actuation, Energy & Communication systems
+I'm a Robotics Student with some experience in<br><i>• Embedded Systems</i><br><i>• Programming</i><br><i>• Control Systems</i><br><i>• Mechanical Design & CAD</i><br><i>• Algorithms</i><br><i>• Robotics Simulation</i><br><i>• Actuation, Energy & Communication systems</i>
 
 
 # 💻 Tech Stack:
