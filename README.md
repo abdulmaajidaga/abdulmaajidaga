@@ -1,6 +1,6 @@
 ## ⭐ About Me:
 
-I'm a <b>Robotics Student</b> with experience in,
+I'm a <b>Robotics Engineer</b> with experience in,
 <div style="display: flex; flex-wrap: wrap; gap: 5px;">
   <img src="https://img.shields.io/badge/Circuit%20Analysis%20%26%20Design-007ACC?style=for-the-badge" alt="Circuit Analysis & Design" height="25"/>
   <img src="https://img.shields.io/badge/Signals%20%26%20Systems-1ABC9C?style=for-the-badge" alt="Signals & Systems" height="25"/>
